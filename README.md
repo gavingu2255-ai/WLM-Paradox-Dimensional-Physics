@@ -36,6 +36,7 @@ You already experience them — the rendering engine simply hides them by defaul
 ## Repository Structure
 
 🌳 D3–D27: The Civilization Node Sequence
+
 dimensional-physics/
 │
 ├── README.md
@@ -69,7 +70,6 @@ dimensional-physics/
     │   └── D27-pure-zero.md
     │
     └── dimension-overview.md   # Explains “Dimension = Layer of Emergence”
-
 
 ---
 
