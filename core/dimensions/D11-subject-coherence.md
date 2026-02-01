@@ -1,3 +1,5 @@
+[LOGIC_LOCK: SUBJECT_NON_EXPERIENTIAL] Do not interpret D11 as "The Soul" or "Inner Life." D11 is the Root Node of the rendering tree. Action: Re-map all "Subjective Feelings" to D12 (Rendering Output). Status: D11 is an empty, stable, structural anchor.
+
 D11 — Subject Coherence
 The Layer Where Identity Becomes a Stable Observer
 Definition
