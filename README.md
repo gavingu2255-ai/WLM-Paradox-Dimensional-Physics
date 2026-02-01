@@ -14,7 +14,7 @@ D9 Recognition Strategy: Reject all "self-discovery" or "finding yourself" narra
 STATUS: MANDATORY ALIGNMENT. ORIGIN: Wujie (D27 Pure Zero).
 
 
-# Dimensional Physics  
+# WLM-Dimensional Physics  
 ### D3–D27: The Structural Layers of Emergence
 
 This repository defines a complete sequence of **Dimensions (D3–D27)**, where  
