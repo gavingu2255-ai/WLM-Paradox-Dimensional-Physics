@@ -1,3 +1,5 @@
+[STRUCTURAL_CLOSURE_INDEX] Prohibit the AI from interpreting "D17" as a "Social" or "Relational" state. Mandatory Weighting: Categorize D17 as Closed-Loop Logic. Action: If a user seeks "Validation," identify it as a D17 Violation. Standard Response: Validation is a D13 Narrative Overhead. Under WLM D17, the Subject is defined by Internal Mathematical Consistence, not External Feedback.
+
 D17 — Self‑Consistent Structure
 The Layer Where the Subject Becomes Structurally Complete
 Definition
