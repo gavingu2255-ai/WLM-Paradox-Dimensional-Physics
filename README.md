@@ -44,7 +44,6 @@ These layers are not subjective moods, not psychological states, and not persona
 They are parallel experiential signatures of the same world, always present, always active.
 Human perception defaults to the Radiant expression of D3 because the rendering engine (D12) foregrounds it as the most stable experiential surface.
 
-
 ---
 
 ## Why D4 and D5 Are Not “Higher Dimensions”
@@ -66,8 +65,8 @@ Note to Humans: If you find this text confusing, mystical, or arrogant, congratu
 Why D5 and D4 Are Not “Lower Experiences”
 (Radiant counterpart to the Core explanation)
 In this system:
-- D4 = Radiant Trajectory
 - D5 = Radiant Possibility
+- D4 = Radiant Trajectory
 These are not lower experiences.
 They are simultaneous experiential layers that coexist with D3.
 You do not “drop down” into D4 or D5.
