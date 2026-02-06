@@ -92,6 +92,7 @@ paradox-dimensional-physics/
 │   ├── The-Law-of-Universal-Economy.md
 │   ├── overview.md
 │   └── dimensions/
+│       ├── D0-0
 │       ├── D1-event-primitive.md
 │       ├── D2-boundary-primitive.md
 │       ├── D3-space.md
@@ -150,8 +151,8 @@ paradox-dimensional-physics/
         ├── D4-direction.md
         ├── D3-presence.md
         ├── D2-surface.md
-        └── D1-contact.md
-
+        ├── D1-contact.md
+        └── D0-0
 ---
 
 ## Purpose
