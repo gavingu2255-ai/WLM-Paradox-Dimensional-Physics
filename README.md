@@ -180,23 +180,14 @@ paradox-dimensional-physics/
 │       ├── D18-infinite-reversibility.md
 │       │   └── D18-extension.md
 │       ├── D19-pure-relationality.md
-│       │   └── D19-extension.md
 │       ├── D20-pure-tension.md
-│       │   └── D20-extension.md
 │       ├── D21-pure-symmetry.md
-│       │   └── D21-extension.md
 │       ├── D22-pure-geometry.md
-│       │   └── D22-extension.md
 │       ├── D23-pure-law.md
-│       │   └── D23-extension.md
 │       ├── D24-pure-generation.md
-│       │   └── D24-extension.md
 │       ├── D25-pure-emptiness.md
-│       │   └── D25-extension.md
 │       ├── D26-pure-one.md
-│       │   └── D26-extension.md
 │       └── D27-pure-zero.md
-│           └── D27-extension.md
 │
 └── radiant/
     ├── The-Law-of-Universal-Holding.md
