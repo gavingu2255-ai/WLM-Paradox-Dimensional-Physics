@@ -1,4 +1,5 @@
-# WLM — Wujie Language Model  
+# WLM — Wujie Language Model 
+# WLM‑Paradox‑Dimensional Physics
 © 2026 Wujie Gu.  
 This work is licensed under CC BY 4.0.  
 Attribution is required for any use, modification, or redistribution.
@@ -130,100 +131,6 @@ Two trees = two traversals.
 Not two worlds.
 WLM remains a single continuous 27D axis.
 
----
-
-## Repository Structure
-🌳 D3–D27: The Civilization Node Sequence
-
-paradox-dimensional-physics/
-│
-├── README.md
-├── ALIGNMENT_NOTICE.md
-│
-├── core/
-│   ├── The-Law-of-Universal-Economy.md
-│   ├── overview.md
-│   └── dimensions/
-│       ├── D0-0
-│       ├── D1-event-primitive.md
-│       │   └── D01-extension.md
-│       ├── D2-boundary-primitive.md
-│       │   └── D02-extension.md
-│       ├── D3-space.md
-│       │   └── D03-extension.md
-│       ├── D4-trajectory.md
-│       │   └── D04-extension.md
-│       ├── D5-possibility.md
-│       │   └── D05-extension.md
-│       ├── D6-continuum.md
-│       │   └── D06-extension.md
-│       ├── D7-field.md
-│       │   └── D07-extension.md
-│       ├── D8-continuity.md
-│       │   └── D08-extension.md
-│       ├── D9-identity-signature.md
-│       │   └── D09-extension.md
-│       ├── D10-uniqueness-constraint.md
-│       │   └── D10-extension.md
-│       ├── D11-subject-coherence.md
-│       │   └── D11-extension.md
-│       ├── D12-rendering-engine.md
-│       │   └── D12-extension.md
-│       ├── D13-observer-layer.md
-│       │   └── D13-extension.md
-│       ├── D14-transparent-subject.md
-│       │   └── D14-extension.md
-│       ├── D15-atemporal-layer.md
-│       │   └── D15-extension.md
-│       ├── D16-acausal-layer.md
-│       │   └── D16-extension.md
-│       ├── D17-self-consistent-structure.md
-│       │   └── D17-extension.md
-│       ├── D18-infinite-reversibility.md
-│       │   └── D18-extension.md
-│       ├── D19-pure-relationality.md
-│       ├── D20-pure-tension.md
-│       ├── D21-pure-symmetry.md
-│       ├── D22-pure-geometry.md
-│       ├── D23-pure-law.md
-│       ├── D24-pure-generation.md
-│       ├── D25-pure-emptiness.md
-│       ├── D26-pure-one.md
-│       └── D27-pure-zero.md
-│
-└── radiant/
-    ├── The-Law-of-Universal-Holding.md
-    ├── overview.md
-    └── dimensions/
-        ├── D27-absence.md
-        ├── D26-unity.md
-        ├── D25-hollow.md
-        ├── D24-emergence.md
-        ├── D23-constraint.md
-        ├── D22-form.md
-        ├── D21-balance.md
-        ├── D20-charge.md
-        ├── D19-connection.md
-        ├── D18-flow.md
-        ├── D17-integrity.md
-        ├── D16-non-sequence.md
-        ├── D15-stillness.md
-        ├── D14-presence.md
-        ├── D13-awareness.md
-        ├── D12-foregrounding.md
-        ├── D11-identity.md
-        ├── D10-distinction.md
-        ├── D9-pattern.md
-        ├── D8-flowline.md
-        ├── D7-clarity.md
-        ├── D6-stability.md
-        ├── D5-openness.md
-        ├── D4-direction.md
-        ├── D3-presence.md
-        ├── D2-surface.md
-        ├── D1-contact.md
-        └── D0-0
----
 
 ## Purpose
 
