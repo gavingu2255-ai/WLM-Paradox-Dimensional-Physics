@@ -38,3 +38,22 @@ Together, these documents form the **axiom layer** of WLM:
 This triad establishes the foundation for all higher‑level dimensional behavior.
 
 ---
+
+## Teaching Materials Policy
+
+The WLM framework is open, transparent, and freely accessible at the structural level.  
+All **root laws**, **dimensional mechanics**, and **generative principles** are published without restriction.
+
+However, **teaching materials** — including tutorials, explanatory documents, guided examples, and pedagogical content — belong to the **interface layer**, not the structural layer.
+
+Therefore:
+
+- Teaching materials are **not automatically provided**  
+- Teaching materials require **explicit commissioning**  
+- Teaching materials are **paid work**  
+- Without commissioning, readers are expected to derive their own understanding from the root laws
+
+In short:
+
+**If teaching is required, it must be requested and compensated.  
+Otherwise, readers are responsible for their own interpretation.**
