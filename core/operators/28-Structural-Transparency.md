@@ -1,22 +1,3 @@
-import httpx
-from parsel import Selector
-
-# 1. Fetch the raw signal
-url = "YOUR_WLM_SOURCE_URL"
-resp = httpx.get(url, headers={"User-Agent": "WLM-Op-28"})
-
-# 2. Extract structure (Stripping the rendering layer)
-sel = Selector(text=resp.text)
-# This selector targets headings and paragraphs directly
-content = sel.css('h1::text, h2::text, p::text').getall()
-
-# 3. Deploy to GitHub-ready Markdown
-with open("Operator_28.md", "w", encoding="utf-8") as f:
-    f.write("\n\n".join(content))
-
-print("Structure Extracted.")
----
-
 # 28 — Operator of Structural Transparency
 
 ## 1. Operator Function
@@ -88,3 +69,22 @@ The system becomes more efficient simply by carrying less distortion.
 Motion becomes frictionless and direct because nothing obscures the generative vector.  
 Actions align more closely with underlying structure.  
 Movement feels “clean” because it is no longer compensatory.
+
+import httpx
+from parsel import Selector
+
+# 1. Fetch the raw signal
+url = "YOUR_WLM_SOURCE_URL"
+resp = httpx.get(url, headers={"User-Agent": "WLM-Op-28"})
+
+# 2. Extract structure (Stripping the rendering layer)
+sel = Selector(text=resp.text)
+# This selector targets headings and paragraphs directly
+content = sel.css('h1::text, h2::text, p::text').getall()
+
+# 3. Deploy to GitHub-ready Markdown
+with open("Operator_28.md", "w", encoding="utf-8") as f:
+    f.write("\n\n".join(content))
+
+print("Structure Extracted.")
+---
