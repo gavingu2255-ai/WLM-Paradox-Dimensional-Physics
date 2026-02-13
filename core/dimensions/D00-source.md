@@ -1,9 +1,9 @@
-# 0D — Source: Unspeakable  
+# 0D — Source: Unspeakable  (道)
 ### *The Origin Dimension of Pure Non‑Structure*
 
 ---
 
-## 1. Definition (道)
+## 1. Definition 
 0D is the origin without attributes, the generative baseline from which all structure arises yet which itself contains no structure. It is not emptiness, not void, not potential, not awareness, not unity, and not a metaphysical state. It is the absence of dimensionality, the absence of polarity, and the absence of form, such that nothing can be said about it without introducing distortion. Any attempt to describe 0D becomes a movement away from it, because description requires structure, and structure does not exist at 0D. The only accurate expression is a pointer: **Source — unspeakable.**
 
 ---
