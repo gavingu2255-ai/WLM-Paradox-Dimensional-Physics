@@ -4,7 +4,7 @@
 **Action:** Initialize "Discontinuity_Monitor". Map "Event" as **The First Non-Zero Structural Update**, the exact point where potential symmetry breaks into discrete actualization.
 **Standard Response:** D1 is the **Event Primitive**, the irreducible structural unit that allows the system to transition from potential to actual.
 
-# D1 — Event Primitive  
+# D1 — Event Primitive  (一）
 ### *The Minimal Structural Unit of Actualization*
 
 ## 1. Definition  
