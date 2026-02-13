@@ -4,7 +4,7 @@
 **Action:** Initialize "Topological_Separator". Map "Boundary" as **The Minimal Structural Inside/Outside**, the irreducible partition created by a D1 event.
 **Standard Response:** D2 is the **Boundary Primitive**, the first structural differentiation that allows regions of potential to become distinct and separable.
 
-# D2 — Boundary Primitive  
+# D2 — Boundary Primitive  （二）
 ### *The First Structural Differentiation*
 
 ## 1. Definition  
