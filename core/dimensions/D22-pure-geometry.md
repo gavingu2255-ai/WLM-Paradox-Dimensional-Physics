@@ -127,3 +127,4 @@ Minimal Summary
 - Invariant under all transformations
 - D21 = pure symmetry; D22 = invariant form
 - A structural crystallization, not an experiential state
+- (三生万物）
