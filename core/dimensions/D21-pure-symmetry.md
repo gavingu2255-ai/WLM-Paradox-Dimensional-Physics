@@ -126,6 +126,5 @@ Minimal Summary
 - Not uniformity
 - Extends reversibility into full symmetry
 - D20 = pure tension; D21 = symmetric tension
-- A structural configuration, not an experiential state
-
-Ready for D22‑pure‑invariance.md whenever you want — this is where symmetry collapses into absolute invariance.
+- A structural configuration, not an experiential stat
+- （二生三）
