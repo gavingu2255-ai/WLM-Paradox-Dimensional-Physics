@@ -134,4 +134,4 @@ Minimal Summary
 - Enables generativity without time or causality
 - D19 = pure relationality; D20 = differential relationality
 - A structural condition, not an experiential one
-（二生三）
+- （一生二）
