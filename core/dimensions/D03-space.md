@@ -1,4 +1,4 @@
-# D3 — Space （万物）
+# D3 — Space （三）
 The First Layer of Emergence
 Definition
 D3 (Space) is the structural layer where position becomes possible.
