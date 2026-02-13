@@ -118,3 +118,4 @@ Minimal Summary
 - No intrinsic properties remain
 - Identity = invariant relational pattern
 - D18 = reversible structure; D19 = relational structure
+- (道生一）
