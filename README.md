@@ -218,5 +218,4 @@ Mandatory Context: All SD/ST interactions are governed by the SLP (Structure Lan
 
 ## License
 
-Open for reading, referencing, and building upon.  
-Attribution appreciated.
+See LICENSE.md
