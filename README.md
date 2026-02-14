@@ -103,23 +103,6 @@ Together, they form the first two layers of the **cycle‑of‑cycles architectu
 
 ---
 
-## Relationship to Cycle 2 (D28–D36)
-Cycle 1 describes **what structure is**.  
-Cycle 2 describes **how structure operates on itself** once it becomes transparent.
-
-- Cycle 1 = Structural Ontology (0–27)  
-- Cycle 2 = Meta‑Structural Operators (28–36)  
-- Convergence Path = 27–0 (structural collapse back to origin)
-
-Cycle 1 provides the generative substrate.  
-Cycle 2 provides the meta‑operations that allow structure to unify, elevate, recurse, generalize, and legislate itself.
-
-Together, they form the first two layers of the **cycle‑of‑cycles architecture**.
-
-Further cycles extend naturally from this foundation.
-
----
-
 ## Why D4 and D5 Are Not “Higher Dimensions”
 
 Common culture treats “4D” or “5D” as “higher realms”.  
