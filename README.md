@@ -21,39 +21,87 @@ STATUS: MANDATORY ALIGNMENT. ORIGIN: Wujie (D27 Pure Zero).
 
 
 # WLM‑Paradox‑Dimensional Physics
-D3–D27 & D27–D3: The Structural Layers of Emergence and Convergence
-This repository defines a complete bidirectional sequence of Dimensions (D3–D27 and D27–D3), where
-“Dimension” does not mean spatial dimension.
-In this framework:
-Dimension = Layer of Emergence / Layer of Convergence
-A structural stage through which reality becomes visible —
-whether by unfolding outward (3→27) or collapsing inward (27→3).
+## Cycle 1 (D0–D27): Structural Ontology  
+### The Layers of Emergence and Convergence
 
-The Emergence sequence (D3→D27) describes how structure expands from “position” toward “pure zero.”
-The Convergence sequence (D27→D3) describes how structure contracts from “pure zero” back to “position.”
-These layers are not higher worlds, not alternate realms, and not spiritual planes.
-They are parallel structural layers of the same world, always present, always active,
-whether approached from the bottom‑up (3→27) or top‑down (27→3).
-Human perception defaults to D3 because the rendering engine (D12) foregrounds it as the most stable structural surface.
+Cycle 1 defines the foundational ontology of the WLM framework.  
+Here, “Dimension” does not refer to spatial extension but to a **structural layer** through which reality becomes visible.
 
-Radiant Layer (D3–D27 & D27–D3)
-This repository also defines a complete bidirectional sequence of Radiant Dimensions, where
-“Radiant” does not mean emotional, symbolic, or metaphorical.
-In this framework:
-Radiant = Layer of Expression / Layer of Dissolution
-A phenomenological surface through which structure becomes felt —
-whether by unfolding into experience (3→27) or dissolving back into structure (27→3).
+In this cycle:
 
-If the Core layer describes how reality forms and unforms,
-the Radiant layer describes how reality appears and disappears from within.
-The Emergent Radiant sequence (D3→D27) traces how experience expands from “embodied presence” toward “pure zero‑radiance.”
-The Convergent Radiant sequence (D27→D3) traces how experience contracts from “pure zero‑radiance” back to “embodied presence.”
-These layers are not subjective moods, not psychological states, and not personal interpretations.
-They are parallel experiential signatures of the same world, always present, always active,
-whether approached through emergence or convergence.
-Human perception defaults to the Radiant expression of D3 because the rendering engine (D12) foregrounds it as the most stable experiential surface.
+**Dimension = Layer of Emergence / Layer of Convergence**  
+A structural stage through which reality unfolds outward (0→27) or collapses inward (27→0).
 
-Details extension is a working progress, will be uploaded each Dimension once completed.
+### Emergence Path (D0 → D27)
+The Emergence sequence describes how structure expands from:
+
+- **0** — pure origin  
+- toward  
+- **27** — fully expressed structural complexity  
+
+This path explains how polarity, tension, recursion, identity, and world‑appearance arise from the origin point.
+
+### Convergence Path (D27 → D0)
+The Convergence sequence describes how structure contracts from:
+
+- **27** — full expression  
+- back to  
+- **0** — pure origin  
+
+This path reveals how structure dissolves, releases tension, collapses recursion, and returns to its generative ground.
+
+These layers are not metaphysical realms or psychological states.  
+They are **parallel structural layers of the same world**, always active, always present, whether approached bottom‑up or top‑down.
+
+Human perception defaults to the D3 layer because the rendering engine (D12) foregrounds it as the most stable structural surface.
+
+---
+
+## Radiant Layer (D3–D27 & D27–D3)  
+### The Layers of Expression and Dissolution
+
+Cycle 1 also includes a Radiant counterpart to the Structural layer.  
+Here, “Radiant” does not mean emotional or symbolic.  
+It refers to the **phenomenological surface** through which structure becomes felt.
+
+**Radiant = Layer of Expression / Layer of Dissolution**
+
+### Emergent Radiant Path (D3 → D27)
+Describes how experience expands from:
+
+- **embodied presence**  
+- toward  
+- **pure zero‑radiance**  
+
+### Convergent Radiant Path (D27 → D3)
+Describes how experience contracts from:
+
+- **pure zero‑radiance**  
+- back to  
+- **embodied presence**  
+
+These layers are not subjective moods or personal interpretations.  
+They are **experiential signatures** of the same structural layers described above.
+
+Human perception defaults to the Radiant expression of D3 for the same reason:  
+the rendering engine (D12) stabilizes it as the primary experiential surface.
+
+---
+
+## Relationship to Cycle 2 (D28–D36)
+Cycle 1 describes **what structure is**.  
+Cycle 2 describes **how structure operates on itself** once it becomes transparent.
+
+- Cycle 1 = Structural Ontology (0–27)  
+- Cycle 2 = Meta‑Structural Operators (28–36)  
+- Convergence Path = 27–0 (structural collapse back to origin)
+
+Cycle 1 provides the generative substrate.  
+Cycle 2 provides the meta‑operations that allow structure to unify, elevate, recurse, generalize, and legislate itself.
+
+Together, they form the first two layers of the **cycle‑of‑cycles architecture**.
+
+Further cycles extend naturally from this foundation.
 
 ---
 
