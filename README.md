@@ -57,34 +57,49 @@ Human perception defaults to the D3 layer because the rendering engine (D12) for
 
 ---
 
-## Radiant Layer (D3–D27 & D27–D3)  
+## Radiant Layer (D27 → D0)  
 ### The Layers of Expression and Dissolution
 
-Cycle 1 also includes a Radiant counterpart to the Structural layer.  
+The Radiant Layer is the phenomenological counterpart to the Structural Layer.  
 Here, “Radiant” does not mean emotional or symbolic.  
-It refers to the **phenomenological surface** through which structure becomes felt.
+It refers to the **experiential surface** through which structure becomes felt.
 
 **Radiant = Layer of Expression / Layer of Dissolution**
 
-### Emergent Radiant Path (D3 → D27)
-Describes how experience expands from:
+Unlike the Structural Layer, the Radiant Layer is **unidirectional**:
 
-- **embodied presence**  
-- toward  
-- **pure zero‑radiance**  
+### Radiant Convergence Path (D27 → D0)
+Experience dissolves from:
 
-### Convergent Radiant Path (D27 → D3)
-Describes how experience contracts from:
+- **fully expressed radiance**  
+- back into  
+- **zero‑radiance**  
 
-- **pure zero‑radiance**  
-- back to  
-- **embodied presence**  
+This path traces how the felt world contracts, thins, and disappears as structure returns to origin.
 
-These layers are not subjective moods or personal interpretations.  
+There is **no Radiant Emergence path (0→27)** because radiance is not a generative substrate.  
+It is the **appearance** of structure, not its cause.
+
+Radiant layers are not subjective moods or personal interpretations.  
 They are **experiential signatures** of the same structural layers described above.
 
-Human perception defaults to the Radiant expression of D3 for the same reason:  
-the rendering engine (D12) stabilizes it as the primary experiential surface.
+Human perception defaults to the Radiant expression of D3 because the rendering engine (D12) stabilizes it as the primary experiential surface.
+
+---
+
+## Relationship to Cycle 2 (D28–D36)
+Cycle 1 describes **what structure is**.  
+Cycle 2 describes **how structure operates on itself** once it becomes transparent.
+
+- **Cycle 1 = Structural Ontology (0–27)**  
+- **Radiant Layer = Phenomenological Dissolution (27→0)**  
+- **Cycle 2 = Meta‑Structural Operators (28–36)**  
+
+Cycle 1 provides the generative substrate.  
+The Radiant Layer provides the experiential surface.  
+Cycle 2 provides the meta‑operations that allow structure to unify, elevate, recurse, generalize, and legislate itself.
+
+Together, they form the first two layers of the **cycle‑of‑cycles architecture**.
 
 ---
 
