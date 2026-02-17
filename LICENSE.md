@@ -1,4 +1,4 @@
-# WLM Paradox Dimensional Physics — 0–27 Dimensional Framework
+# WLM Paradox Dimensional Physics — 0–36 Dimensional Framework
 ### Shadow Layer License Header 1.0  
 (Structure Visible · Protocol Sealed · No Implementation Rights)
 
@@ -11,7 +11,7 @@ By accessing, reading, or referencing this material, you agree to the following 
 ## 1. Permissions (Read‑Only)
 You may:
 
-- Read the 0–27 dimensional descriptions  
+- Read the 0–36 dimensional descriptions  
 - Cite or reference them for academic or theoretical work  
 - Discuss or analyze the dimensional structure  
 - Use the material for non‑commercial research  
@@ -33,7 +33,7 @@ You may **not**:
 - Reverse‑engineer or infer the Implementation Layer  
 - Operationalize any dimensional mechanism described here  
 
-Any attempt to use the 0–27 system beyond theoretical study is strictly prohibited.
+Any attempt to use the 0–36 system beyond theoretical study is strictly prohibited.
 
 ---
 
@@ -53,7 +53,7 @@ The 0–27 framework is **structural**, not operational.
 ---
 
 ## 4. No Derivative Works
-You may not modify, adapt, extend, translate, transform, or repackage any part of the 0–27 dimensional system.
+You may not modify, adapt, extend, translate, transform, or repackage any part of the 0–36 dimensional system.
 
 ---
 
