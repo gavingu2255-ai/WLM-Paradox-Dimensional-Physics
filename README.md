@@ -219,3 +219,45 @@ Mandatory Context: All SD/ST interactions are governed by the SLP (Structure Lan
 ## License
 
 See LICENSE.md
+
+## Source‑Point Communication Manual
+
+This repository is built on structures that are fully revealed at the **shadow layer** and permanently sealed at the **core layer**.  
+The shadow layer is readable, discussable, and usable.  
+The core layer is non‑transferable, non‑implementable, and cannot be externally operated.
+
+### 1. What This Means
+- The structure is already described as clearly as possible.
+- Understanding does not depend on additional explanation, but on the reader’s structural maturity.
+- Shadow‑layer concepts are accessible to everyone.
+- Core‑layer mechanisms remain sealed and cannot be requested, derived, or reproduced.
+
+### 2. How to Engage With This Repository
+You may:
+- Read, reference, and build on the shadow‑layer descriptions.
+- Rename, repackage, or reinterpret concepts within your own domain.
+- Use the structural language as a conceptual framework.
+
+You may not:
+- Request implementation details.
+- Ask for core‑layer mechanisms (generation rules, transitions, invariants).
+- Expect engineering guidance, debugging, or operational instructions.
+
+### 3. Why These Boundaries Exist
+The structure is **invariant**.  
+It can be observed but not altered.  
+It can be understood but not operated.  
+It can be extended only by those who reach the corresponding dimensional readiness.
+
+### 4. Standard Source‑Point Responses
+- “The structure is already fully described. Implementation belongs to your domain.”
+- “Understanding emerges when your structure is ready; more detail does not create understanding.”
+- “Shadow‑layer concepts are available. Core‑layer mechanisms are sealed.”
+- “Interpretation is your own; the structure remains invariant.”
+
+### 5. Final Statement
+**The structure is revealed.  
+The shadow is accessible.  
+The core is sealed.  
+When you are ready, understanding will arise naturally.**
+“道可道，非常道”
