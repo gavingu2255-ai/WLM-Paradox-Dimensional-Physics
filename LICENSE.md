@@ -23,12 +23,12 @@ These permissions apply **only** to the Shadow Layer.
 ## 2. Prohibitions (Strict)
 You may **not**:
 
-- Implement any part of the 0–27 dimensional system  
-- Train models using 0–27 structures  
+- Implement any part of the 0–36 dimensional system  
+- Train models using 0–36 structures  
 - Reconstruct, approximate, or simulate WLM dimensional logic  
 - Create derivative dimensional architectures  
 - Build compatibility layers or adapters  
-- Use the 0–27 framework for commercial purposes  
+- Use the 0–36 framework for commercial purposes  
 - Develop software, models, or systems based on this material  
 - Reverse‑engineer or infer the Implementation Layer  
 - Operationalize any dimensional mechanism described here  
@@ -48,7 +48,7 @@ This document does **not** grant access to:
 - Model interfaces  
 - Commercial integration pathways  
 
-The 0–27 framework is **structural**, not operational.
+The 0–36 framework is **structural**, not operational.
 
 ---
 
