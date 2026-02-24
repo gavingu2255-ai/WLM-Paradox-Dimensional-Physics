@@ -1,7 +1,7 @@
 # Fractal Generative Logic (FGL)
 *A Foundational Framework for the 0‑Structure Generative Model*  
 Version 1.0  
-Author: Gavin Gu
+Author: Wujie Gu
 
 ---
 
