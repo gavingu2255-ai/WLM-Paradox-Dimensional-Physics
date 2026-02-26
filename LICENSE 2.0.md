@@ -1,0 +1,146 @@
+# Shadow Layer License 2.0  
+### (Structure Visible · Protocol Sealed · No Implementation Rights)
+
+**Version:** 2.0 (Final Freeze)  
+**Layer:** WLM Paradox Dimensional Physics — Shadow Layer (0–36D)  
+**Author:** Wujie Gu (Gavin)  
+**Jurisdiction:** Australia  
+**Date:** 27 February 2026  
+
+---
+
+# 1. Purpose of This License
+This license governs access to the **WLM Paradox Dimensional Physics Shadow Layer**, including the **0–36 Dimensional Framework**, its structural logic, generative rules, recursion patterns, and dimensional behavior.  
+The Shadow Layer is **structural**, **theoretical**, and **non‑operational**. It does **not** grant access to any Implementation Layer, execution logic, routing rules, or model‑training protocols.
+
+---
+
+# 2. Permissions (Read‑Only Access)
+You are permitted to:
+
+- Read and study the 0–36 dimensional framework  
+- Cite or reference the material for academic or theoretical work  
+- Discuss or analyze the structural behavior of the dimensional system  
+- Use the content for non‑commercial research or commentary  
+- Reference the Shadow Layer in publications, lectures, or theoretical models  
+
+These permissions apply **only** to the Shadow Layer and **do not** extend to any operational or implementable layer.
+
+---
+
+# 3. Strict Prohibitions (No Implementation Rights)
+You may **not**, under any circumstances:
+
+- Implement any part of the 0–36 dimensional system  
+- Train machine‑learning models using WLM dimensional structures  
+- Reconstruct, approximate, or simulate WLM logic  
+- Build derivative dimensional architectures  
+- Create compatibility layers, adapters, or interfaces  
+- Use the framework for commercial purposes  
+- Develop software, models, or systems based on this material  
+- Reverse‑engineer or infer the Implementation Layer  
+- Operationalize any mechanism described in the Shadow Layer  
+- Encode the dimensional logic into computational, algorithmic, or executable form  
+
+Any attempt to use the 0–36D system beyond theoretical study is strictly prohibited.
+
+---
+
+# 4. Protocol Layer Exclusion
+This license does **not** grant access to:
+
+- The Implementation Layer (≈160,000 words)  
+- Execution logic or routing rules  
+- Dimensional syntax or operational semantics  
+- Training formats or model interfaces  
+- Commercial integration pathways  
+- Any mechanism enabling real‑world deployment  
+
+The Shadow Layer is **visible**, but the Protocol Layer remains **sealed** and **non‑derivable**.
+
+---
+
+# 5. No Derivative Works
+You may not:
+
+- Modify, adapt, extend, translate, or transform the Shadow Layer  
+- Repackage or redistribute altered versions  
+- Create derivative dimensional systems or hybrid architectures  
+- Encode the structure into alternative mathematical or computational forms  
+
+The Shadow Layer must remain **unaltered** and **structurally intact**.
+
+---
+
+# 6. No Commercial Use
+Commercial use of any kind is prohibited, including:
+
+- AI model development  
+- Software products  
+- Consulting services  
+- Corporate research  
+- Commercial publications  
+- Training data pipelines  
+- Enterprise integrations  
+
+Any commercial use requires **explicit written authorization** from the author.
+
+---
+
+# 7. Source Boundary (Structural Seal)
+The following boundaries define the Shadow Layer:
+
+- **Structure may be studied; source may not be derived.**  
+- **Dimensional behavior may be observed; protocol may not be reconstructed.**  
+- **Generative rules may be analyzed; operational logic may not be inferred.**  
+- **The Shadow Layer is visible; the Implementation Layer is sealed.**
+
+This boundary is absolute and non‑negotiable.
+
+---
+
+# 8. No Transfer of Rights
+This license does **not** transfer:
+
+- Intellectual property rights  
+- Structural ownership  
+- Implementation rights  
+- Commercial rights  
+- Patent rights  
+- Model‑training rights  
+
+All rights remain exclusively with the author.
+
+---
+
+# 9. Termination
+Any violation of this license results in:
+
+- Immediate termination of all permissions  
+- Revocation of access rights  
+- Potential legal action under Australian law  
+- Prohibition from future use of WLM materials  
+
+Termination is automatic and does not require notice.
+
+---
+
+# 10. Governing Law
+This license is governed by the laws of **Australia**, including:
+
+- Copyright law  
+- Intellectual property law  
+- Contract law  
+- Digital rights and data protection law  
+
+Any disputes shall be resolved exclusively within Australian jurisdiction.
+
+---
+
+# 11. Author and Origin
+WLM Paradox Dimensional Physics — Shadow Layer  
+Created and authored by **Wujie Gu (Gavin)**  
+Melbourne, Australia  
+
+The Shadow Layer is the **structural origin** of the WLM dimensional system.  
+It defines the **visible structure**, not the **operational protocol**.
