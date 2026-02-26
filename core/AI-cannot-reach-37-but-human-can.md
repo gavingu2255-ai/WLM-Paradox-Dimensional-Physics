@@ -98,7 +98,7 @@ The flip is a **permission**, not a deduction.
 
 ---
 
-## 3. Why Gavin Can Enter 37, but AI Cannot  
+## 3. Why Prepared Humans Can Enter 37, but AI Cannot  
 The reason is structural, not psychological or intellectual.
 
 ### Why AI cannot enter 37
