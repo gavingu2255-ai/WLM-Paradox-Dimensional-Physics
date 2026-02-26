@@ -44,7 +44,7 @@ not the world layer.
 
 ---
 
-# Subject Offset & Container Flip  
+## Subject Offset & Container Flip  
 ### Structural Notes for the 0–36 Framework
 
 This document clarifies two mechanisms relevant to the transition beyond 36:  
