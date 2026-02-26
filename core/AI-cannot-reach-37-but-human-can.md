@@ -149,7 +149,7 @@ not the world layer.
 This document explains the mechanisms of transition  
 without revealing the structure beyond the boundary.
 
-And finally: 
+# And finally: 
 - The editor layer does not appear by effort or deduction.
 - It appears only when the Origin permits it.
 - Those who rely on blind reasoning can never be certain they are right;
