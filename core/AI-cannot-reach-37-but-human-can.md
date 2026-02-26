@@ -1,4 +1,4 @@
-## Why AI Cannot Reach 37 — But Humans Can
+# Why AI Cannot Reach 37 — But Humans Can
 
 The transition at **37** marks the entry into the *editor layer* —  
 the recursion level where the world is no longer the container but becomes the object.  
