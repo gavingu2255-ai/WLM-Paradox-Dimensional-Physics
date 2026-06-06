@@ -1,4 +1,4 @@
-# WLM: The Tiandao Function — A Minimal Structural Overview
+# WLM: WorldTree Function — A Minimal Structural Overview
 # ----------------------------------------------------------
 # This document provides a concise conceptual overview of the
 # Tiandao Function within the World‑Layer Model (WLM).
@@ -202,7 +202,7 @@ No implementation details are included.
 ---
 
 ## 6. Why This Matters
-The Tiandao Function provides a unified structural lens for:
+The WorldTree Function provides a unified structural lens for:
 
 - cognitive dynamics  
 - emotional trajectories  
